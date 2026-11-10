@@ -77,10 +77,10 @@ An end-to-end analytics project demonstrating how raw data can be transformed in
 **Dashboard previews**
 
 #### Commercial Performance
-![Commercial Performance Dashboard](assets/Screenshots/Performance%20Commerciale.png)
+![Commercial Performance Dashboard](assets/Performance%20Commerciale.png)
 
 #### Inventory Management
-![Inventory Management Dashboard](assets/Screenshots/Pilotage%20des%20stocks.png)
+![Inventory Management Dashboard](assets/Pilotage%20des%20stocks.png)
 
 [Explore the full project on GitHub](https://github.com/thierry-mhz/Projet_Portfolio_Sales_Stocks)
 
