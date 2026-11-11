@@ -97,9 +97,9 @@ An end-to-end analytics project demonstrating how raw data can be transformed in
   Graduated top of class — 15.5/20 average.
 
 - **Master 1 — Innovation, Entreprise et Société (IES)**  
-  Université Paris-Saclay / École Polytechnique | 2017–2018
+  Université Paris-Saclay / X Polytechnique | 2017–2018
 
-- **Licence 3 — Mathématiques Appliquées aux Sciences Économiques (MASE)**  
+- **Double Licence Mathématiques et Economie — Mathématiques Appliquées aux Sciences Économiques (MASE)**  
   Université d’Orléans | 2013–2017
 
 ---
@@ -118,6 +118,7 @@ An end-to-end analytics project demonstrating how raw data can be transformed in
 - SQL analytics and data modeling
 - Python automation and data quality
 - Business performance and decision support
+- New technology
 
 ---
 
