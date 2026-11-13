@@ -18,7 +18,7 @@ My approach goes beyond dashboard development: I focus on data quality, KPI cons
 Consulting assignments:
 
 - **RTE — Data Analyst / IT PMO Consultant**  
-  *April 2025 – July 2026*
+  *April 2025 – September 2026*
 - **Safran Aerosystems — Power BI Data Analyst Consultant**  
   *December 2023 – April 2025*
 
@@ -47,7 +47,7 @@ Consulting assignments:
 | Business Intelligence | Power BI, DAX, Power Query, Tableau |
 | Data analysis | SQL, Python, Pandas, Excel |
 | Data preparation | Data cleaning, transformation, data quality |
-| Data modeling | Star schema, fact and dimension tables, KPI modeling |
+| Data modeling | Databricks, Star schema, fact and dimension tables, KPI modeling |
 | Databases | SQL Server, SQLite |
 | Business tools | SAP, BusinessObjects |
 | Analytics | Performance monitoring, reporting, trend analysis |
